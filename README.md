@@ -49,7 +49,6 @@ It also reflects my interest in how housing associations, local authorities, inv
 
 ## Repository contents
 
-- `Eila_-Housing_Health_Deprivation_London.pptx` — presentation, speaker notes and references.
 
 ## Skills demonstrated
 
