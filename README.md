@@ -48,7 +48,7 @@ The project considers how place-based data can help identify areas of need and i
 It also reflects my interest in how housing associations, local authorities, investors and developers work together to respond to housing needs.
 
 ## Repository contents
-
+view my PDF: https://github.com/eila14h-eng/housing-health-deprivation-london/blob/main/WD.Eila_%20Housing_Health_Deprivation_London.pdf
 
 ## Skills demonstrated
 
